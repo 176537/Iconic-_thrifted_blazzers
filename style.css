@@ -1,0 +1,11 @@
+
+body{margin:0;font-family:Arial,sans-serif;background:#f4efe6;color:#18261f}
+.hero{text-align:center;padding:50px 20px;background:#0d241d;color:#f6f0e7}
+.logo{width:220px;max-width:80%;border-radius:20px}
+h1{letter-spacing:3px}
+.btn{display:inline-block;padding:14px 22px;background:#c6a55c;color:#111;
+text-decoration:none;border-radius:10px;font-weight:bold}
+section{max-width:1100px;margin:auto;padding:50px 24px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px}
+.grid div{background:white;padding:20px;border-radius:14px}
+footer{text-align:center;padding:30px}
